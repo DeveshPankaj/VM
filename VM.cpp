@@ -276,6 +276,7 @@ vm::data_block vm::VM::make_inst(vm::data_block inst, vm::data_block r1, vm::dat
 }
 
 
+// fibonacci series
 void vm::VM::load_program() {
     // __data_section
     this->memory[0] = this->make_inst(0);   // a
