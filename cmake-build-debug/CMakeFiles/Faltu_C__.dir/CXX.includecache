@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/devesh/Desktop/Faltu C++/main.cpp
+iostream
+-
+csignal
+-
+thread
+-
+worker.h
+/home/devesh/Desktop/Faltu C++/worker.h
+
+/home/devesh/Desktop/Faltu C++/worker.cpp
+worker.h
+/home/devesh/Desktop/Faltu C++/worker.h
+
+/home/devesh/Desktop/Faltu C++/worker.h
+iostream
+-
+

@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/devesh/Desktop/Faltu C++/VM-inst.h
+
+/home/devesh/Desktop/Faltu C++/VM.cpp
+VM.h
+/home/devesh/Desktop/Faltu C++/VM.h
+
+/home/devesh/Desktop/Faltu C++/VM.h
+stack
+-
+cstdint
+-
+cstdio
+-
+iostream
+-
+fstream
+-
+VM-inst.h
+/home/devesh/Desktop/Faltu C++/VM-inst.h
+
+/home/devesh/Desktop/Faltu C++/main.cpp
+iostream
+-
+fstream
+-
+VM.h
+/home/devesh/Desktop/Faltu C++/VM.h
+

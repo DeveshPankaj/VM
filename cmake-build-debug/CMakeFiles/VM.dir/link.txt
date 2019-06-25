@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++14 -pthread -g   CMakeFiles/VM.dir/main.cpp.o CMakeFiles/VM.dir/VM.cpp.o  -o VM 
